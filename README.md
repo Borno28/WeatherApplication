@@ -4,18 +4,10 @@
 <h1 align="center">Search Weather</h1>
 <p align="center">Stay informed and prepared with WeatherApp, your ultimate weather companion!</p>
 
-<head>
-<style>
-img {
-  border-radius: 8px;
-}
-</style>
-</head>
-<body>
-<img src="https://freeimage.host/i/JjkZRhx" alt="Paris" width="300" height="300">
-
-
-</body>
+<div align="flex center">  
+  <img src="https://imgtr.ee/images/2024/03/28/9cc8f5ada651131cc4830405698dcc34.png" alt="WeatherApp Logo" width="200px">
+  <img src="https://imgtr.ee/images/2024/03/28/407bd6d72307538e6e70070f996963a5.png" alt="WeatherApp Logo" width="200px">
+</div>
 
 <div>
   <h1>🌦️ Features</h1>
