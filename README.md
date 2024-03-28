@@ -4,6 +4,19 @@
 <h1 align="center">Search Weather</h1>
 <p align="center">Stay informed and prepared with WeatherApp, your ultimate weather companion!</p>
 
+<head>
+<style>
+img {
+  border-radius: 8px;
+}
+</style>
+</head>
+<body>
+<img src="https://freeimage.host/i/JjkZRhx" alt="Paris" width="300" height="300">
+
+
+</body>
+
 <div>
   <h1>🌦️ Features</h1>
 <p>Real-time Weather Data: Access up-to-date weather information for any city, including temperature, conditions, sunrise, sunset, pressure, and wind speed.
